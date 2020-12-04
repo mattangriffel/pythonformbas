@@ -3,5 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # Mac OS X
 .DS_Store
